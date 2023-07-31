@@ -1,59 +1,20 @@
-<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-
-   <style type="text/css">
-  * {
-    unset: all;
-  }
-
-  .steez-container {
-    display: flex;
-    flex-direction: column;
-    gap: 0.25rem;
-  }
-
-  .steez-container > .steez-header {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 3.5rem;
-    background: linear-gradient(90deg, rgba(6,78,59,1) 0%, rgba(77,124,15,1) 72%, rgba(132,204,22,1) 100%);
-  }
-
-  .steez-container > .steez-header > .steez-heading {
-    font-size: 2.5rem;
-    color: white;
-  }
-
-  .steez-container > .steez-details > .steez-summary {
-    padding-bottom: 1rem;
-  }
-
-  .steez-container > .steez-details > .steez-details-row {
-    display: flex;
-    align-items: center;
-    gap: 1rem;
-  }
-</style>
-
-<div class="steez-container">
-  <header class="steez-header">
-    <span class="steez-heading">Steez++</span>
+<div>
+  <header>
+    <h1>Steez++</h1>
   </header>
 
-  <details class="steez-details">
-    <summary class="steez-summary">
+  <details>
+    <summary>
       🙋🏻‍♂️ About me
     </summary>
     <p>Hey! My name is Jesse. I'm a software engineer with a B.S. in Computer Science from NJIT.</p>
   </details>
 
-  <details class="steez-details">
-    <summary class="steez-summary">
+  <details>
+    <summary>
       ⚙️ I like to use
     </summary>
-    <div class="steez-details-row">
+    <div>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark" />
         <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light" />
@@ -97,8 +58,8 @@
     </div>
   </details>
 
-  <details class="steez-details">
-    <summary class="steez-summary">
+  <details>
+    <summary>
       📫 You can follow me at
     </summary>
     <div class="steez-details-row">
@@ -120,7 +81,3 @@
   </details>
 
 <div>
-   
-		</div>
-	</foreignObject>
-</svg>
