@@ -1,7 +1,62 @@
-# Hi, I'm Jesse.
+<details>
+  <summary>
+    🙋🏻‍♂️ About me
+  </summary>
+  <p>Hey! My name is Jesse. I'm a software engineer with a B.S. in Computer Science from NJIT.</p>
+</details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<details>
+  <summary>
+     ⚙️ I like to use
+  </summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light">
+    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="Typescript Icon" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs&theme=light">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next JS Icon" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tailwind&theme=light">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind Icon" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=prisma&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=prisma&theme=light">
+    <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma Icon" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres&theme=light">
+    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres Icon" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=githubactions&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=githubactions&theme=light">
+    <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="Github Actions Icon" />
+  </picture>
+</details>
+
+<details>
+  <summary>
+    📫 You can follow me at
+  </summary>
+  <a href="https://twitter.com/CodingSteez">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=twitter&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=twitter&theme=light">
+      <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter Icon" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/jesse-bp/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn Icon" />
+    </picture>
+  </a>
+</details>
