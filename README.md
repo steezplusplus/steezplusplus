@@ -1,4 +1,3 @@
-
 <details>
   <summary>
     🙋🏻‍♂️ About me
@@ -51,27 +50,5 @@
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" />
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Visual Studio Code Icon" />
     </picture>
-  </div>
-</details>
-
-<details>
-  <summary>
-    📫 You can follow me at
-  </summary>
-  <div class="steez-details-row">
-    <a href="https://twitter.com/CodingSteez">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=twitter&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=twitter&theme=light" />
-        <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="Twitter Icon" />
-      </picture>
-    </a>
-    <a href="https://www.linkedin.com/in/jesse-bp/">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linkedin&theme=light" />
-        <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn Icon" />
-      </picture>
-    </a>
   </div>
 </details>
