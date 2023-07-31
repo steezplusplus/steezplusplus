@@ -1,4 +1,8 @@
-<style type="text/css">
+<svg fill="none" viewBox="0 0 300 120" width="300" height="120" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+
+   <style type="text/css">
   * {
     unset: all;
   }
@@ -19,6 +23,7 @@
 
   .steez-container > .steez-header > .steez-heading {
     font-size: 2.5rem;
+    color: white;
   }
 
   .steez-container > .steez-details > .steez-summary {
@@ -115,3 +120,7 @@
   </details>
 
 <div>
+   
+		</div>
+	</foreignObject>
+</svg>
