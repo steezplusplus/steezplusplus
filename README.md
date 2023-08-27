@@ -7,7 +7,7 @@
   </details>
   <details>
     <summary>
-      ⚙️ My preferred stack
+      ⚙️ I like to use
     </summary>
     <div>
       <picture>
@@ -60,19 +60,6 @@
       My favorite projects are already pinned to my github profile, but if you'd like to see more, check out 
       <a href="https://steezplusplus.github.io/">my portfolio</a>.
     </p>    
-  </details>
-  <details>
-    <summary>
-    🛠 What I'm currently working on
-    </summary>
-    <p>
-      <b>
-        <a href="https://hardware-share.vercel.app/">
-          Hardware Share
-        </a>
-      </b>
-      - A peer 2 peer platform empowering users to share their hardware.
-    </p>
   </details>
   <img src="https://komarev.com/ghpvc/?username=steezplusplus&label=PROFILE+VIEWS" alt="Profile Views">
 </div>
