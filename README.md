@@ -25,31 +25,6 @@
         <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tailwind&theme=light" />
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind Icon" />
       </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=prisma&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=prisma&theme=light" />
-        <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma Icon" />
-      </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres&theme=light" />
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres Icon" />
-      </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=githubactions&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=githubactions&theme=light" />
-        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="Github Actions Icon" />
-      </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vercel&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vercel&theme=light" />
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel Icon" />
-      </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" />
-        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" />
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Visual Studio Code Icon" />
-      </picture>
     </div>
   </details>
   <details>
@@ -58,7 +33,7 @@
     </summary>
     <p>
       My favorite projects are already pinned to my github profile, but if you'd like to see more, check out 
-      <a href="https://steezplusplus.github.io/">my portfolio</a>.
+      <a href="portfolio-codesteez.vercel.app">my portfolio</a>.
     </p>    
   </details>
   <img src="https://komarev.com/ghpvc/?username=steezplusplus&label=PROFILE+VIEWS" alt="Profile Views">
