@@ -33,7 +33,7 @@
     </summary>
     <p>
       My favorite projects are already pinned to my github profile, but if you'd like to see more, check out 
-      <a href="portfolio-codesteez.vercel.app">my portfolio</a>.
+      <a href="https://portfolio-codesteez.vercel.app/">my portfolio</a>.
     </p>    
   </details>
   <img src="https://komarev.com/ghpvc/?username=steezplusplus&label=PROFILE+VIEWS" alt="Profile Views">
