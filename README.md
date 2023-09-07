@@ -1,6 +1,6 @@
 <div align="center">
   <section>
-    <a href="digital-garden-steez.vercel.app/">
+    <a href="https://digital-garden-steez.vercel.app/">
       My portfolio.
     </a>
   </section>
