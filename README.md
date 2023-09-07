@@ -1,6 +1,6 @@
 <div align="center">
   <section>
-    <a href="https://portfolio-codesteez.vercel.app/">
+    <a href="digital-garden-steez.vercel.app/">
       My portfolio.
     </a>
   </section>
@@ -13,7 +13,7 @@
         src="https://custom-icon-badges.demolab.com/github/stars/steezplusplus?color=9f9f9f&style=for-the-badge&labelColor=555555&label=my%20stargazers"
       />
     </a>
-    <a href="#">
+    <a href="https://github.com/steezplusplus?tab=followers">
       <img 
         alt="Jesse's number of followers"
         title="Jesse's number of followers"
