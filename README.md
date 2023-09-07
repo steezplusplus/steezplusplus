@@ -1,5 +1,4 @@
 <div align="center">
-  <br />
   <section>
     <a href="https://portfolio-codesteez.vercel.app/">
       My portfolio.
